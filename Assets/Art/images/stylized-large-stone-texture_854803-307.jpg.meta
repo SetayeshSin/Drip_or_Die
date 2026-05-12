@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      stylized-large-stone-texture_854803-307_0: 1514567371133858723
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c0ae48af4b731d74389a28960f6adb86
+guid: dccbeb7ec2c71584abcf47238d98fdeb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6062793225183420458
-    second: depositphotos_73093969-stock-illustration-seamless-grounds-soil-and-grass_0
+      213: 7616860304045893325
+    second: depositphotos_84987074-stock-illustration-seamless-landscape-elements-set_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,12 +126,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: depositphotos_73093969-stock-illustration-seamless-grounds-soil-and-grass_0
+      name: depositphotos_84987074-stock-illustration-seamless-landscape-elements-set_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 527
+        width: 500
         height: 600
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a20e3b5f05e532450800000000000000
-      internalID: 6062793225183420458
+      spriteID: dc6ed66371684b960800000000000000
+      internalID: 7616860304045893325
       vertices: []
       indices: 
       edges: []
@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      depositphotos_84987074-stock-illustration-seamless-landscape-elements-set_0: 7616860304045893325
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
