@@ -1,5 +1,9 @@
 fileFormatVersion: 2
-guid: 993e864eedee4b14a9efd5eb006c8636
+<<<<<<< HEAD:Assets/Art/images.meta
+guid: a9531378bb19e4b49bfa8c9836437701
+=======
+guid: 2bf67bfd51c465c44876281599e516be
+>>>>>>> main:Assets/Art/animation.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
