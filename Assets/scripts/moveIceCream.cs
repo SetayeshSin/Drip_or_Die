@@ -78,11 +78,11 @@ public class moveIceCream : MonoBehaviour
         } 
         if (moveUpFlag){
           Vector3 newPosition= transform.position;
-          newPosition.y += 0.15f  ; 
+          newPosition.y += 0.2f  ; 
           transform.position = newPosition;
           upCount++;
          }
-         if(upCount==20)moveUpFlag = false;
+         if(upCount==15)moveUpFlag = false;
     }
     private void moveUp(){
       if(jumpCount==0){
